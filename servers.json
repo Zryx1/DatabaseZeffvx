@@ -1,0 +1,7 @@
+{
+  "servers": [
+    { "id": 1, "name": "Server 1", "url": "http://lunaris-node-free-4.hostkita.help:20006", "status": "online" },
+    { "id": 2, "name": "Server 2", "url": "http://isi-domain-server-2.com:PORT", "status": "offline" },
+    { "id": 3, "name": "Server 3", "url": "http://isi-domain-server-3.com:PORT", "status": "offline" }
+  ]
+}
